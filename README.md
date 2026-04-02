@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://www.linkedin.com/in/mohit-thakur-44949328a/">Mohit Thakur</a></h1>
 
-<h3 align="center">🚀 Software Developer | 💻 Competitive Programmer & Systems Architect | 🌱 Innovating with Applied AI/ML</h3>
+<h3 align="center">🚀 Software Developer | 💻 Competitive Programmer & Systems Architect | 🌱 Innovating with AI/ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohit12932&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
