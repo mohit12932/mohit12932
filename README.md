@@ -178,6 +178,29 @@ I am a **_Software Engineer and Systems Architect_** spearheading the convergenc
 </table>
 </div>
 
+<div align="center">
+  <table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;"><b><i>Cloud Providers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 12px;">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+        </td>
+        <td align="center" style="border: none; padding: 12px;">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+        </td>
+        <td align="center" style="border: none; padding: 12px;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <h2 align="center"><b><i> AI/ML & Automation Tools</i></b></h2>
 <div align="center">
  <table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
@@ -205,6 +228,36 @@ I am a **_Software Engineer and Systems Architect_** spearheading the convergenc
       <td align="center" style="border: none; padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn"/>
         <br>Scikit-Learn
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<h2 align="center"><b><i> Tools & Prompt Engineering</i></b></h2>
+<div align="center">
+ <table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;"><b><i>AI & Design Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./icons/gemini-color.png" width="50" height="50" alt="Google Gemini"/>
+        <br>Google Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./icons/figma.png" width="50" height="50" alt="Figma"/>
+        <br>Figma
       </td>
     </tr>
   </tbody>
