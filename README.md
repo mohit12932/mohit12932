@@ -9,7 +9,7 @@
 
 <h1 align="center"><b><i>Hello, I'm Mohit Thakur</i></b><br/>
 <p align="center" >
-  <img src="./assets/animation.svg" width="300" />
+  <img src="./assets/animation.svg" width="200" />
 </p>
 
 
@@ -118,9 +118,10 @@ I am a **_Software Engineer and Systems Architect_** spearheading the convergenc
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br>Java
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/grpc.svg" width="50" height="50"/><br>gRPC
-      </td>
+      <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="50" height="50" alt="gRPC"/><br>
+  gRPC
+</td>
     </tr>
   </tbody>
 </table>
@@ -251,13 +252,13 @@ I am a **_Software Engineer and Systems Architect_** spearheading the convergenc
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
       </td>
       <td align="center" style="border: none;">
-        <img src="./icons/gemini-color.png" width="50" height="50" alt="Google Gemini"/>
+        <img src="./assets/gemini.svg" width="50" height="50" alt="Google Gemini"/>
         <br>Google Gemini
       </td>
-      <td align="center" style="border: none;">
-        <img src="./icons/figma.png" width="50" height="50" alt="Figma"/>
-        <br>Figma
-      </td>
+     <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/><br>
+  Figma
+</td>
     </tr>
   </tbody>
 </table>
