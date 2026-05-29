@@ -195,11 +195,11 @@ Software Engineer focused on Distributed Systems, Deep Learning, and scalable Fu
 
 <h2 align="center">Coding Profiles</h2>
 
-<| align="center">
+<div align="center">
 
-| LeetCode | CodeChef | Codeforces | Codolio |
-| :---: | :---: | :---: | :---: |
-| <a href="https://leetcode.com/u/moht1293/"><img src="https://leetcard.jacoblin.cool/moht1293?theme=dark&font=Fira%20Code&ext=heatmap" width="260"/></a> | <a href="https://www.codechef.com/users/moht2406"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> | <a href="https://codeforces.com/profile/moht1293.25"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=moht1293.25&theme=github_dark"/></a> |
+| LeetCode | CodeChef | Codeforces | 
+| :---: | :---: | :---: |
+| <a href="https://leetcode.com/u/moht1293/"><img src="https://leetcard.jacoblin.cool/moht1293?theme=dark&font=Fira%20Code&ext=heatmap" width="400" alt="LeetCode Stats" /></a> | <a href="https://www.codechef.com/users/moht2406"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> | <a href="https://codeforces.com/profile/moht1293.25"><img src="./assets/codechef-stats.png" width="400" alt="CodeChef Stats"/></a> |
 
 </div>
 
