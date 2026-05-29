@@ -8,8 +8,8 @@
 
 
 <h1 align="center"><b><i>Hello, I'm Mohit Thakur</i></b><br/>
-<p align="center">
-  <img src="./assets/animation.svg" width="500" />
+<p align="center" >
+  <img src="./assets/animation.svg" width="300" />
 </p>
 
 
