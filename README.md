@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://mohitportfolio-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://mohitportfolio-three.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
 </div>
 
 <h2 align="center"><b>Hello, I'm Mohit Thakur</b></h2>
@@ -195,11 +195,11 @@ Software Engineer focused on Distributed Systems, Deep Learning, and scalable Fu
 
 <h2 align="center">Coding Profiles</h2>
 
-<div align="center">
+<| align="center">
 
 | LeetCode | CodeChef | Codeforces | Codolio |
 | :---: | :---: | :---: | :---: |
-| <a href="https://leetcode.com/u/moht1293/"><img src="https://leetcard.jacoblin.cool/moht1293?theme=dark&font=Fira%20Code&ext=heatmap" width="260"/></a> | <a href="https://www.codechef.com/users/moht2406"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> | <a href="https://codeforces.com/profile/moht1293.25"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=moht1293.25&theme=github_dark"/></a> | <a href="https://codolio.com/profile/mohit1092"><img src="https://img.shields.io/badge/Codolio-Profile-1F8ACB?style=for-the-badge&logo=codolio&logoColor=white"/></a> |
+| <a href="https://leetcode.com/u/moht1293/"><img src="https://leetcard.jacoblin.cool/moht1293?theme=dark&font=Fira%20Code&ext=heatmap" width="260"/></a> | <a href="https://www.codechef.com/users/moht2406"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> | <a href="https://codeforces.com/profile/moht1293.25"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=moht1293.25&theme=github_dark"/></a> |<a href="https://codolio.com/profile/mohit1092" target="_blank"><img src="./assets/codolio-card.png"alt="Codolio Profile Card"width="750"/></a>|
 
 </div>
 
