@@ -8,10 +8,9 @@
 
 
 <h1 align="center"><b><i>Hello, I'm Mohit Thakur</i></b><br/>
-<!-- <img src="./Gif/monitor.gif"> -->
-<img src="./Gif/laptop.gif">
-<!-- <img src="./Gif/github.gif"> -->
-</h1>
+<p align="center">
+  <img src="./assets/animation.svg" width="500" />
+</p>
 
 
 <p align="center">
